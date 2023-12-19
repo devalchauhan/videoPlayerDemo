@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224306600364",
+    "project_id": "videoplayerdemo-aeb66",
+    "storage_bucket": "videoplayerdemo-aeb66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224306600364:android:9d3b485e0a55b07c024209",
+        "android_client_info": {
+          "package_name": "com.aveosoftware.videoplayerdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224306600364-ph0kn0t6skj3bbfeq3s1u9uovnjtbp59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBFFh2LEBbn3_I9GGP5yJJamP-Jl_P_ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224306600364-ph0kn0t6skj3bbfeq3s1u9uovnjtbp59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
